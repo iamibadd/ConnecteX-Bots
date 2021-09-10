@@ -14,5 +14,5 @@ Run python3 pip install -r requirements.txt
 ## Running a bot
  ```
  cd bots
- open your terminal and enter, python facebook.py (if you want to run the facebook bot).
+ open your terminal and enter, python3 facebook.py (if you want to run the facebook bot).
  ```
